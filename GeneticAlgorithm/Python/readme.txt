@@ -1,0 +1,1 @@
+This is the Python version code for genetic algorithm. To successfully run all the necessary code,  you need to first move all the files and folders in "data" into the same directory with "__init__.py", then simply run "__init__.py". Make sure there is enough space in memory. 
